@@ -2,8 +2,7 @@
 
 A Lightweight WhatApp Bot Without Headless Browser
 
-<img src="https://www.pngkey.com/maxpic/u2q8e6r5r5r5a9o0/" width="300" >
-
+<img src="https://64.media.tumblr.com/091f9b653f3b38173accd2e83397a0ee/tumblr_n6jdp0bngP1tagi5so1_640.png" width="300" >
 
 
  
